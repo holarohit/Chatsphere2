@@ -89,7 +89,7 @@ const Main = () => {
             </div>
           </div>
           <p className="bottom-info">
-            Chatsphere may display inaccurate info, including about people, so double-check its responses. 
+            Design and Developed by HOLAROHIT and team.
           </p>
         </div>
       </div>
